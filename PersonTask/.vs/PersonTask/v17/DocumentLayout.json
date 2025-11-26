@@ -3,16 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\immmd\\OneDrive\\Desktop\\GroupTask\\PersonTask\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{96F4163E-B0B5-4EC5-A438-1204D0A4A2F3}|PersonTask.csproj|c:\\users\\immmd\\onedrive\\desktop\\grouptask\\persontask\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{96F4163E-B0B5-4EC5-A438-1204D0A4A2F3}|PersonTask.csproj|solutionrelative:person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{96F4163E-B0B5-4EC5-A438-1204D0A4A2F3}|PersonTask.csproj|c:\\users\\immmd\\onedrive\\desktop\\grouptask\\persontask\\manager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{96F4163E-B0B5-4EC5-A438-1204D0A4A2F3}|PersonTask.csproj|solutionrelative:manager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{96F4163E-B0B5-4EC5-A438-1204D0A4A2F3}|PersonTask.csproj|c:\\users\\immmd\\onedrive\\desktop\\grouptask\\persontask\\developer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{96F4163E-B0B5-4EC5-A438-1204D0A4A2F3}|PersonTask.csproj|solutionrelative:developer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{96F4163E-B0B5-4EC5-A438-1204D0A4A2F3}|PersonTask.csproj|c:\\users\\immmd\\onedrive\\desktop\\grouptask\\persontask\\manager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{96F4163E-B0B5-4EC5-A438-1204D0A4A2F3}|PersonTask.csproj|solutionrelative:manager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{96F4163E-B0B5-4EC5-A438-1204D0A4A2F3}|PersonTask.csproj|c:\\users\\immmd\\onedrive\\desktop\\grouptask\\persontask\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{96F4163E-B0B5-4EC5-A438-1204D0A4A2F3}|PersonTask.csproj|solutionrelative:person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{96F4163E-B0B5-4EC5-A438-1204D0A4A2F3}|PersonTask.csproj|c:\\users\\immmd\\onedrive\\desktop\\grouptask\\persontask\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -26,7 +26,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
@@ -34,13 +34,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "Manager.cs",
               "DocumentMoniker": "C:\\Users\\immmd\\OneDrive\\Desktop\\GroupTask\\PersonTask\\Manager.cs",
               "RelativeDocumentMoniker": "Manager.cs",
               "ToolTip": "C:\\Users\\immmd\\OneDrive\\Desktop\\GroupTask\\PersonTask\\Manager.cs",
               "RelativeToolTip": "Manager.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAGAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-11-26T16:28:27.769Z",
               "EditorCaption": ""
@@ -53,20 +53,20 @@
               "RelativeDocumentMoniker": "Developer.cs",
               "ToolTip": "C:\\Users\\immmd\\OneDrive\\Desktop\\GroupTask\\PersonTask\\Developer.cs",
               "RelativeToolTip": "Developer.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAGAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-11-26T16:28:17.683Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "Person.cs",
               "DocumentMoniker": "C:\\Users\\immmd\\OneDrive\\Desktop\\GroupTask\\PersonTask\\Person.cs",
               "RelativeDocumentMoniker": "Person.cs",
               "ToolTip": "C:\\Users\\immmd\\OneDrive\\Desktop\\GroupTask\\PersonTask\\Person.cs",
               "RelativeToolTip": "Person.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-11-26T16:28:06.637Z",
               "EditorCaption": ""
@@ -81,8 +81,7 @@
               "RelativeToolTip": "Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-26T16:26:07.919Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-26T16:26:07.919Z"
             }
           ]
         }

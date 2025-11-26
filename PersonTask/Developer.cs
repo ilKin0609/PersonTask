@@ -1,5 +1,5 @@
 ﻿namespace PersonTask;
 
-public class Developer
+public class Developer:Person
 {
 }

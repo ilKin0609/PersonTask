@@ -1,5 +1,5 @@
 ﻿namespace PersonTask;
 
-public class Manager
+public class Manager : Person
 {
 }
